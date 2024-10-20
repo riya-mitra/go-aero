@@ -1,1 +1,1 @@
-# go-aero
+# Go Aero Senior Design Project
